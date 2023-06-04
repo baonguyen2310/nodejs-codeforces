@@ -1,4 +1,4 @@
-function twoPointer1() {
+function twoPointers1() {
     const a = [1,3,6,8,10];
     const b = [2,6,7,12,14,15];
     const c = [];
@@ -26,7 +26,7 @@ function twoPointer1() {
     console.log(c);
 }
 
-function twoPointer2() {
+function twoPointers2() {
     const a = [2,5,6,8,10,12,15];
     const x = 16;
 
@@ -47,7 +47,7 @@ function twoPointer2() {
     return;
 }
 
-function twoPointer3() {
+function twoPointers3() {
     const a = [2,6,5,3,6,8,9];
     const s = 20;
 
@@ -65,6 +65,6 @@ function twoPointer3() {
     console.log(maxSubLength);
 }
 
-//twoPointer1();
-//twoPointer2();
-twoPointer3();
+//twoPointers1();
+//twoPointers2();
+twoPointers3();

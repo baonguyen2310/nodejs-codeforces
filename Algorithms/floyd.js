@@ -1,14 +1,15 @@
 function createGraph(numVertices) {
     const adjMatrix = new Array(numVertices);
     for (let i = 0; i < numVertices; i++) {
-        adjMatrix[i] = new Array(numVertices).fill(0);
+        adjMatrix[i] = new Array(numVertices).fill(Number.MAX_SAFE_INTEGER);
+        adjMatrix[i][i] = 0;
     }
     return adjMatrix;
 }
 
-function addEdge(graph, v1, v2) {
-    graph[v1][v2] = 1;
-    graph[v2][v1] = 1;
+function addEdge(graph, v1, v2, weight) {
+    graph[v1][v2] = weight;
+    graph[v2][v1] = weight;
 }
 
 function printGraph(graph) {
@@ -42,14 +43,25 @@ function bfs(graph, start) {
     }
 }
 
+function floyd(graph) {
+    const n = graph.length;
+    const dp = [...graph];
+    for (let k = 0; k < n; k++) {
+        for (let i = 0; i < n; i++) {
+            for (let j = 0; j < n; j++) {
+                dp[i][j] = Math.min( dp[i][j], dp[i][k] + dp[k][j]);
+            }
+        }
+    }
+    return dp;
+}
+
 const graph = createGraph(3);
 addEdge(graph, 0, 1, 1);
 addEdge(graph, 0, 2, 100);
 addEdge(graph, 1, 2, 1);
-printGraph(graph);
 
-console.log("DFS:");
-dfs(graph, 0);
-
-console.log("BFS:");
-bfs(graph, 0);
+console.log("Floyd:");
+const dp = floyd(graph);
+console.log(dp);
+console.log(dp[0][2]);

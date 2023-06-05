@@ -8,11 +8,11 @@ function fibonacciRecursion(n) {
 
 //Fibonacci dùng quy hoạch động O(n)
 function fibonacciDynamicProgramming(n) {
-  const F = [0, 1];
+  const dp = [0, 1];
   for (let i = 2; i <= n; i++) {
-    F[i] = F[i-1] + F[i-2];
+    dp[i] = dp[i-1] + dp[i-2];
   }
-  return F[n];
+  return dp[n];
 }
 
 //Fibonacci dùng quy hoạch động và tối ưu bộ nhớ bằng 2 biến

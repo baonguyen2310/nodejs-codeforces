@@ -1,0 +1,143 @@
+1. **Wages:** Compensation for work, often paid per hour.
+2. **Tills:** Automated checkout points in stores for transactions.
+3. **Travel agent:** Professional organizing and arranging trips.
+4. **Groceries:** Food and household items in a grocery store.
+5. **Inventory:** Detailed list of available stock or goods.
+6. **Advertising:** Activities promoting products or services.
+7. **Bedside:** Pertaining to the area next to a bed.
+8. **Capacity:** The maximum amount something can hold or produce.
+9. **Entertainment:** Amusement or enjoyment.
+10. **Mainframe:** Large and powerful central computer.
+11. **Minicomputer:** Smaller than a mainframe, larger than a microcomputer.
+12. **PC (Personal Computer):** Individual user computer.
+13. **Laptop:** Portable and compact computer.
+14. **Notebook:** Compact, lightweight laptop.
+15. **Handheld:** Small, portable electronic device.
+16. **Palmtop:** Small computer designed to fit in the palm of a hand.
+17. **Expansion cards:** Additional circuit boards for computer enhancement.
+18. **Memory chips:** Electronic components storing data.
+19. **Power supply:** Device providing electrical energy to a computer.
+20. **Hard disk drive:** Data storage device inside a computer.
+21. **Motherboard:** Main circuit board in a computer.
+22. **Speaker:** Device producing sound output.
+23. **Serial ports:** Connection points for serial communication.
+24. **COM1:** A specific serial communication port on a computer.
+25. **Parallel port:** Connection interface for parallel communication.
+26. **Minus:** Mathematical subtraction symbol.
+27. **Comma:** Punctuation mark indicating a pause in a sentence.
+28. **Dot:** A small, round mark or symbol.
+29. **Semicolon:** Punctuation mark indicating a stronger pause than a comma.
+30. **Colon:** Punctuation mark indicating a list or explanation.
+31. **Question mark:** Punctuation mark indicating a question.
+32. **Exclamation mark:** Punctuation mark indicating strong emotion or emphasis.
+33. **Three dots:** Ellipsis, indicating an omission or a pause.
+34. **Tilde:** Punctuation mark with various uses, including diacritical.
+35. **Underscore:** Symbol (_) used to underline or emphasize.
+36. **@:** Symbol used in email addresses.
+37. **Forward slash:** The "/" symbol used in paths or fractions.
+38. **Axles:** Rods connecting wheels in a vehicle.
+39. **Rolling ball:** Mechanism in some computer mice.
+40. **Mousemat:** Surface for a computer mouse to move on.
+41. **Dash:** Punctuation mark indicating a break or emphasis.
+42. **Peripherals:** Additional devices connected to a computer.
+43. **Hub:** Device connecting multiple peripherals to a computer.
+44. **Software:** Programs and applications for a computer.
+45. **Hardware:** Physical components of a computer system.
+46. **CPU (Central Processing Unit):** Core component performing calculations.
+47. **Network topologies:** Different arrangements of computer networks.
+48. **Hang:** A state of unresponsiveness in a program or system.
+49. **Router:** Device directing data traffic on a network.
+50. **ISP (Internet Service Provider):** Company providing internet access.
+51. **Internet:** Global network connecting computers worldwide.
+52. **Military:** Relating to the armed forces or defense.
+53. **3-winged craft:** Aircraft with three wings.
+54. **Alien ship:** Extraterrestrial spacecraft.
+55. **Was heading:** Past tense of moving in a particular direction.
+56. **Crashed:** Sudden and violent failure, often in a computer system.
+57. **Coastguard:** Maritime security and rescue organization.
+58. **Commercial organization:** Business entity engaged in commerce.
+59. **Not-for-profit:** Organization focused on a mission rather than profit.
+60. **Austria:** European country.
+61. **Trackerball:** Input device with a rolling ball for navigation.
+62. **Barcode reader:** Device scanning barcodes for data retrieval.
+63. **Scanner:** Device capturing images or text for digital use.
+64. **Printer:** Device producing hard copies of digital content.
+65. **Speech recognition board:** Hardware for converting speech to text.
+66. **Lightpen:** Input device resembling a pen, used with a display.
+67. **Reflected light:** Light bouncing off a surface.
+68. **Optical character recognizing:** Technology for converting printed text into digital characters.
+69. **Maximum resolution:** The highest level of detail in an image.
+70. **Refresh rate:** Frequency of updating a display per second.
+71. **Aperture grill pitch:** Measurement of the distance between openings in a display.
+72. **Adjust:** Modify or change settings.
+73. **Footrest:** Support for feet to enhance comfort.
+74. **Copyholder:** Device holding documents for easy reading or typing.
+75. **Magnet:** Object with magnetic properties.
+76. **Magnetic tape:** Storage medium using magnetic recording.
+77. **Fingerprint:** Unique pattern on the fingertip used for identification.
+78. **Dust:** Fine particles floating in the air.
+79. **Smoke particle:** Small particle released during combustion.
+80. **Therefore:** Consequently or for that reason.
+81. **Represent:** To symbolize or stand for something.
+82. **Modem:** Device enabling computer communication over a network.
+83. **Recycle bin:** Location for discarded digital files before permanent deletion.
+84. **Folder:** Digital container for organizing files.
+85. **Crosshair:** Reticle or target symbol on a display.
+86. **Not available:** Unreachable or inaccessible.
+87. **Drag and drop arrow:** Symbol indicating the ability to move items by dragging.
+88. **Arrow pointer:** Cursor in the shape of an arrow.
+89. **Pointing finger:** Cursor resembling a hand pointing.
+90. **Hourglass:** Symbol indicating a process or waiting period.
+91. **Dropdown listbox:** User interface element for selecting options from a list.
+92. **Command button:** Interface button triggering an action.
+93. **Title bar:** Uppermost part of a window displaying its name.
+94. **Advanced:** Highly developed or complex.
+95. **Magnifying glass:** Symbol or tool for zooming in on content.
+96. **Refer to:** Direct attention or mention.
+97. **Secondary:** Subordinate or less important.
+98. **Consist of:** Comprised or made up of.
+99. **Are attached:** Connected or linked.
+100. **Gigantic:** Extremely large or massive.
+101. **Computer term:** A word or phrase related to computing.
+102. **Machines:** Mechanical devices or equipment.
+103. **Flight:** The act or process of flying.
+104. **Disk:** Storage medium often in the form of a flat, circular plate.
+105. **Drive:** Device for reading or writing data.
+106. **Device:** Any piece of hardware used for a specific purpose.
+107. **Data:** Information, especially in digital form.
+108. **Speed:** Rate at which something moves or operates.
+109. **Monitor:** Display screen for computer output.
+110. **Processor:** Central component handling calculations.
+111. **Floppy disk:** Portable storage medium with flexible magnetic disk.
+112. **Alternate:** Another option or choice.
+113. **Escape:** Key on a keyboard used to interrupt or cancel.
+114. **Numeric keypad:** Section on a keyboard with numbers and arithmetic functions.
+115. **Graphic tablet:** Input device for drawing or writing on a digital surface.
+116. **Joystick:** Input device for controlling movements.
+117. **Microphone:** Device for capturing sound.
+118. **Touchscreen:** Display screen with touch-sensitive capabilities.
+119. **Digital camera:** Device for capturing and storing digital images.
+120. **Lamp:** Light source, often for workspace illumination.
+121. **Inkjet printer:** Printer using liquid ink for producing images.
+122. **Dye sublimation printer:** Printer using heat to transfer dye onto materials.
+123. **Mono laser printer:** Monochrome printer using laser technology.
+124. **Dot matrix printer:** Printer creating images with dots.
+125. **Fixed hard disk:** Non-removable data storage device.
+126. **CD-ROM disk:** Compact Disc-Read Only Memory for data storage.
+127. **Sounds:** Auditory sensations or vibrations.
+128. **Fonts:** Different styles and sizes of text characters.
+129. **Date and time:** Information indicating the calendar date and current time.
+130. **Volume:** Loudness or quantity of sound.
+131. **Drawing program:** Software for creating visual art or diagrams.
+132. **Network:** Interconnected computers sharing resources and information.
+133. **Checkbox:** UI element for toggling options on or off.
+134. **Text box:** Area for entering and displaying text.
+135. **Tab:** User interface element for navigation or organization.
+136. **Window:** Graphical interface displaying content on a computer screen.
+137. **Icon:** Graphic symbol representing a program or file.
+138. **Pointer:** On-screen indicator controlled by a mouse or touchpad.
+139. **Menu:** List of options for a user to choose from.
+140. **Active window:** Currently focused or in-use interface window.
+141. **Interface:** Point of interaction between a user and a computer system.
+142. **Server:** Computer providing resources or services to other computers.
+143. **Client:** Computer or software using services provided by a server.

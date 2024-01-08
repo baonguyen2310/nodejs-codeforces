@@ -1,0 +1,143 @@
+wages
+tills
+travel agent
+groceries
+inventory
+advertising
+bedside
+capacity
+entertainment
+mainframe
+minicomputer
+PC
+laptop
+notebook
+handheld
+palmtop
+expansion cards
+memory chips
+power supply
+hard disk drive
+motherboard
+speaker
+serial ports
+COM1
+parallel port
+minus
+comma
+dot
+semicolon
+colon
+question mark
+exclamation mark
+three dot
+tilde
+underscore
+@
+forward slash
+axles
+rolling ball
+mousemat
+dash
+peripherals
+hub
+software
+hardware
+CPU
+network topologies
+hang
+router
+ISP
+internet service provider
+military
+3 winged craft
+alien ship
+was heading
+crashed
+coastguard
+commercial organization
+not-for-profit
+austria
+trackerball
+barcode reader
+scanner
+printer
+speech recognition board
+lightpen
+reflected light
+optical character recognising
+maximum resolution
+refresh rate
+aperture grill pitch
+adjust
+footrest
+copyholder
+magnet
+magnetic tape
+fingerprint
+dust
+smoke particle
+therefore
+represent
+modem
+recycle bin
+folder
+crosshair
+not available
+drag and drop arrow
+arrow pointer
+poiting finger
+hourglass
+dropdown listbox
+command button
+title bar
+advanced
+magnifying glass
+refer to
+secondary
+consist of
+are attached
+gigantic
+computer term
+machines
+flight
+disk
+drive
+device
+data
+speed
+monitor
+processor
+floppy disk
+alternate
+escape
+numeric keypad
+graphic tablet
+joystick
+microphone
+touchscreen
+digital camera
+lamp
+inkjet printer
+dye sublimation printer
+mono laser printer
+dot matrix printer
+fixed hard disk
+CD-ROM disk
+sounds
+fonts
+date and time
+volume
+drawing program
+network
+checkbox
+text box
+tab
+window
+icon
+pointer
+menu
+active window
+interface
+server
+client
